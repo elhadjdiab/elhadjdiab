@@ -1,4 +1,4 @@
-# Hi there, I'm Elhadj Diab 👋
+# Hi there, I'm Elhadj 👋
 
 Welcome to my GitHub profile!
 
