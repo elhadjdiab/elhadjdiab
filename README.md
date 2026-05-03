@@ -1,31 +1,34 @@
 # Hi there, I'm Elhadj 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I am a software developer recently graduated from **Collège La Cité** (2026), specializing in modern web and mobile ecosystems.
 
 ## 🚀 About Me
-- 👨‍💻 I’m passionate about programming, open source, and tech innovation.
-- 🌱 I love active learning and am always exploring new technologies.
-- 💡 I truly enjoy the dopamine rush when I overcome a tough bug or combat a struggle in code—that’s what keeps me hooked!
-- 💬 Ask me about web development (frontend & backend), desktop apps, mobile dev, or anything tech-related!
-- 📫 How to reach me: X or LinkedIn
-- ⚡ Fun fact: "I sometimes speak in pseudo-code in real life, and my friends give me weird looks. 🤓"
+
+* 👨‍💻 **Focus**: Full-Stack Web Development (MERN) and iOS Mobile Development.
+* 🌱 **Current Activity**: Implementing advanced Design Patterns and scaling cloud-native infrastructures.
+* 💡 **Philosophy**: I enjoy the challenge of solving complex bugs and optimizing system architecture.
+* 🎓 **Background**: DEC in Computer Programming with a previous degree in Management.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, JavaScript, C#, Kotlin
-- **Web:** Frontend & Backend Development (React, Node.js)
-- **Desktop:** WPF with .NET and C#
-- **Mobile:** Android (Kotlin)
-- **Tools:** Git, VS Code, Visual Studio
 
-## 📈 GitHub Stats
-![Elhadjdiab's GitHub stats](https://github-readme-stats.vercel.app/api?username=elhadjdiab&show_icons=true&theme=default)
+* **Languages**: JavaScript (ES6+), C#, Swift, Python.
+* **Web**: React, Node.js, Next.js, Express, Prisma ORM.
+* **Mobile**: iOS Development with SwiftUI, SwiftData, and MVVM architecture.
+* **Databases**: PostgreSQL, MongoDB, SQLite, MySQL.
+* **Tools & Methods**: Agile (Jira), Git, AWS (Developer & DevOps tracks).
 
-## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/abdoulaye-diallo-4a0a44140)
-- [Twitter/X](https://twitter.com/d_abdoulaye2)
-- [Personal Website](In progress...)
+## 🏗️ Featured Projects
+
+* **Intranet de Gestion Académique** : System built with React, Node.js, and Prisma featuring a complex conflict-resolution engine and RBAC security.
+* **Explora** : iOS application for historical location management using SwiftData for local persistence.
+* **Al-Mu'allim** : AI-integrated language learning platform focused on Arabic calligraphy validation (In progess...).
+* **Personal Portfolio** : Modern showcase built with Next.js and Prisma.
+
+## 📈 Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/abdoulaye-diallo-4a0a44140)
+* [Twitter](https://x.com/d_abdoulaye2)
+* [Personal Website](In progress...)
 
 ---
-
-Thanks for visiting my profile! 😊
-
+*Fun fact: "I sometimes speak in pseudo-code in real life, and my friends give me weird looks. 🤓"*
